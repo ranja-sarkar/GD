@@ -1,4 +1,4 @@
-#
+#MODEL 2 for learning rate = 0.2
 
 import numpy as np
 import matplotlib.pyplot as plt
