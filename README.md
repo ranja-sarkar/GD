@@ -15,6 +15,8 @@ maximum permissible number of iterations before reaching the minimum point, wher
 
 <img width="308" alt="3" src="https://github.com/user-attachments/assets/69659f9d-42f7-47e1-88a7-b818b5ad93c6">
 
+<img width="149" alt="0" src="https://github.com/user-attachments/assets/71f249d0-1df0-429f-843a-9ac8936d3d92">
+
 
 Additionally, refer to my article on the hyperparameters 'learning rate', 'epoch', and 'batch' in context of neural networks (deep learning):
 https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network?utm_campaign=post&utm_medium=web
