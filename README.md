@@ -6,7 +6,8 @@ Vanilla gradient descent, also called **batch gradient descent** has two variant
 
 <img width="115" alt="0" src="https://github.com/user-attachments/assets/c86f23ab-7707-408b-bfc7-ef5cddabdc58">
 
-Three linear regression models optimized with the gradient descent algorithm with different learning rates have been shown:
+Three linear regression models optimized with the gradient descent algorithm with different learning rates have been shown. It tells us that with a too low learning rate, the algorithm may reach the 
+maximum permissible number of iterations before reaching the minimum point, whereas it may not converge (or may diverge completely) with a too high learning rate. Selecting the appropriate learning rate is crucial in achieving an optimally performing model.
 
 <img width="316" alt="1" src="https://github.com/user-attachments/assets/453a37ea-469a-4373-8a79-ad2589a2e957">
 
