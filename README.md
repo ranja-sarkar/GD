@@ -12,6 +12,9 @@ Three linear regression models optimized with the gradient descent algorithm wit
 
 <img width="320" alt="2" src="https://github.com/user-attachments/assets/5c2e2d4a-82b1-4fbf-bf7a-fd5cb6d40c1e">
 
+<img width="308" alt="3" src="https://github.com/user-attachments/assets/69659f9d-42f7-47e1-88a7-b818b5ad93c6">
+
+
 Additionally, refer to my article on the hyperparameters 'learning rate', 'epoch', and 'batch' in context of neural networks (deep learning):
 https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network?utm_campaign=post&utm_medium=web
 
