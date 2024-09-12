@@ -6,6 +6,11 @@ Vanilla gradient descent, also called **batch gradient descent** has two variant
 
 <img width="115" alt="0" src="https://github.com/user-attachments/assets/c86f23ab-7707-408b-bfc7-ef5cddabdc58">
 
+Three linear regression models optimized with the gradient descent algorithm with different learning rates have been shown:
+
+<img width="316" alt="1" src="https://github.com/user-attachments/assets/453a37ea-469a-4373-8a79-ad2589a2e957">
+
+
 Additionally, refer to my article on the hyperparameters 'learning rate', 'epoch', and 'batch' in context of neural networks (deep learning):
 https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network?utm_campaign=post&utm_medium=web
 
