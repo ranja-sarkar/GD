@@ -21,6 +21,11 @@ maximum permissible number of iterations before reaching the minimum point, wher
 <img width="149" alt="0" src="https://github.com/user-attachments/assets/71f249d0-1df0-429f-843a-9ac8936d3d92">
 
 
+More about linear regression models: https://ranjas.substack.com/p/linear-regression
+
 Additionally, refer to my article on the hyperparameters 'learning rate', 'epoch', and 'batch' in context of neural networks (deep learning):
 https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network?utm_campaign=post&utm_medium=web
+
+
+
 
