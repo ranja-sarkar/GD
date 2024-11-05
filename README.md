@@ -9,7 +9,7 @@ Vanilla gradient descent, also called **batch gradient descent** has two variant
 Buy at Amazon: https://a.co/d/gw13Tv6
 
 
-Three linear regression models optimized with the gradient descent method with 3 different learning rates have been shown in the 3 figures below. 
+Three linear regression models optimized with the gradient descent method with different learning rates (respective codes provided in this repo) have been shown in the 3 figures below. 
 
 <img width="149" alt="0" src="https://github.com/user-attachments/assets/71f249d0-1df0-429f-843a-9ac8936d3d92">
 
@@ -24,7 +24,7 @@ It tells us that with a too low learning rate, the algorithm may reach the maxim
 
 More about **linear regression**: https://ranjas.substack.com/p/linear-regression
 
-Additionally, refer to my article on model hyperparameters 'learning rate', 'epoch', and 'batch' in the context of neural networks (deep learning):
+Additionally, refer to my article on model hyperparameters 'learning rate', 'epoch', and 'batch' in the context of **neural networks** (deep learning):
 https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network
 
 
