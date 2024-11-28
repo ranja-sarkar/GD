@@ -19,7 +19,7 @@ Buy at Amazon: https://a.co/d/gw13Tv6
 
 Three linear regression models optimized with the gradient descent method with different learning rates have been shown in the figures below. 
 
-With too small a learning rate, the algorithm may reach the maximum permissible number of iterations before reaching the minimum cost function, whereas it may not converge to the min or may diverge completely away from min with a very high learning rate.
+With too small a learning rate, the algorithm may reach the maximum permissible number of iterations before reaching the minimum cost (function in the y-axis), whereas it may not converge to the min or may diverge completely away from the min with a very high learning rate.
 
 Selecting the appropriate learning rate is crucial in achieving an optimally performing model.
 
