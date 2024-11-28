@@ -3,7 +3,8 @@
 Gradient descent literally literally means choosing a direction across a landscape and take whichever step gets us downhill, the step-size depending on the slope (gradient) of the hill.
 
 In the context of machine learning, vanilla gradient descent also called **batch gradient descent** has two variants namely, **mini-batch gradient descent** and **stochastic gradient descent (SGD)**. 
-**Chapter 4** of my book discusses these variants of gradient descent.
+
+**Chapter 4** of my book discusses the gradient descent algorithm and these variants of it.
 
 <img width="115" alt="0" src="https://github.com/user-attachments/assets/c86f23ab-7707-408b-bfc7-ef5cddabdc58">
 
