@@ -29,7 +29,7 @@ Selecting the appropriate learning rate is crucial in achieving an optimally per
 <img width="308" alt="3" src="https://github.com/user-attachments/assets/69659f9d-42f7-47e1-88a7-b818b5ad93c6">
 
 
-More about **linear regression**: https://ranjas.substack.com/p/linear-regression
+More about **linear regression** model optimized with ordinary least squares (OLS) method: https://ranjas.substack.com/p/linear-regression
 
 Additionally, refer to my article on model hyperparameters 'learning rate', 'epoch', and 'batch' in the context of **neural networks** (deep learning):
 https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network
