@@ -14,11 +14,12 @@ In the context of machine learning, vanilla gradient descent also called **batch
 Buy at Amazon: https://a.co/d/gw13Tv6
 
 
+<img width="195" alt="1" src="https://github.com/user-attachments/assets/55d7aea9-cf83-42df-8aed-0a85506e6f47">
+
+
 Three linear regression models optimized with the gradient descent method with different learning rates (respective codes provided in this repo) have been shown in the 3 figures below. 
 
-<img width="149" alt="0" src="https://github.com/user-attachments/assets/71f249d0-1df0-429f-843a-9ac8936d3d92">
-
-With too low a learning rate, the algorithm may reach the maximum permissible number of iterations before reaching the minimum, whereas it may not converge or may diverge completely with a too high learning rate.
+With too low a learning rate, the algorithm may reach the maximum permissible number of iterations before reaching the minimum (of cost function), whereas it may not converge or may diverge completely with a too high learning rate.
 
 Selecting the appropriate learning rate is crucial in achieving an optimally performing model.
 
