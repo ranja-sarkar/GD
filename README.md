@@ -24,15 +24,13 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 Selecting the appropriate learning rate is crucial in achieving an optimally performing model.
 
 <img width="316" alt="1" src="https://github.com/user-attachments/assets/453a37ea-469a-4373-8a79-ad2589a2e957">
-
 <img width="320" alt="2" src="https://github.com/user-attachments/assets/5c2e2d4a-82b1-4fbf-bf7a-fd5cb6d40c1e">
-
 <img width="308" alt="3" src="https://github.com/user-attachments/assets/69659f9d-42f7-47e1-88a7-b818b5ad93c6">
 
 
 More about **linear regression** model optimized with ordinary least squares (OLS) method: https://ranjas.substack.com/p/linear-regression
 
-Additionally, refer to my article on model hyperparameters 'learning rate', 'epoch', and 'batch' in the context of **neural networks** (deep learning):
+Additionally, refer to my article on model hyperparameters - 'learning rate', 'epoch', and 'batch' in the context of deep neural networks:
 https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network
 
 
