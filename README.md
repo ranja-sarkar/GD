@@ -36,9 +36,8 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 <img width="308" alt="3" src="https://github.com/user-attachments/assets/69659f9d-42f7-47e1-88a7-b818b5ad93c6">
 
 
-More about **linear regression** model optimized with ordinary least squares (OLS) method: https://ranjas.substack.com/p/linear-regression
 
-Also, refer to my article on model hyperparameters - **learning rate**, **epoch**, and **batch** in the context of optimization of deep neural networks using the gradient descent algorithm:
+Refer to my article on model hyperparameters - **learning rate**, **epoch**, and **batch** in the context of optimization of deep neural networks using the gradient descent algorithm:
 https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network
 
 
