@@ -24,4 +24,8 @@ Examples:
 There're 2 approaches to finding the coefficients in logistic regression:
 
 i. Gradient Descent
+
 ii. MLE
+
+
+<img width="388" alt="77" src="https://github.com/user-attachments/assets/769a130f-fa90-498d-864b-c93fec5e3d66" />
