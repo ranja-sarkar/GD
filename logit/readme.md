@@ -9,10 +9,12 @@ The resulting probability is compared to a threshold to predict a class for y, b
 
 <img width="374" alt="22" src="https://github.com/user-attachments/assets/5973b25f-ce10-4833-9d7c-e764ac9d2e77" />
 
-There're 2 approaches to finding the coefficients in logistoc regression:
+<img width="287" alt="33" src="https://github.com/user-attachments/assets/ac04f47f-531f-4695-b557-247dd544fad7" />
+
+<img width="496" alt="44" src="https://github.com/user-attachments/assets/8e72c2ee-4ed8-4d2e-b1c8-d21951f6a57d" />
+
+
+There're 2 approaches to finding the coefficients in logistic regression:
 
 i. Gradient Descent
-
-
-
 ii. MLE
