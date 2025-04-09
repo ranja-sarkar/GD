@@ -9,9 +9,16 @@ The resulting probability is compared to a threshold to predict a class for y, b
 
 <img width="374" alt="22" src="https://github.com/user-attachments/assets/5973b25f-ce10-4833-9d7c-e764ac9d2e77" />
 
-<img width="287" alt="33" src="https://github.com/user-attachments/assets/ac04f47f-531f-4695-b557-247dd544fad7" />
+Examples:
 
+
+<img width="287" alt="33" src="https://github.com/user-attachments/assets/ac04f47f-531f-4695-b557-247dd544fad7" />
 <img width="496" alt="44" src="https://github.com/user-attachments/assets/8e72c2ee-4ed8-4d2e-b1c8-d21951f6a57d" />
+
+
+<img width="285" alt="55" src="https://github.com/user-attachments/assets/da779a7a-467e-4ebb-8606-3f77cd91d1d4" />
+<img width="484" alt="66" src="https://github.com/user-attachments/assets/fff3f372-9c0d-4404-86fb-23cbff17804c" />
+
 
 
 There're 2 approaches to finding the coefficients in logistic regression:
