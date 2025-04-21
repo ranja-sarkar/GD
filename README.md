@@ -28,7 +28,8 @@ Three linear regression models optimized with the gradient descent method (see t
 With too small a learning rate, the algorithm may reach the maximum permissible number of iterations before reaching the minimum cost (function in the y-axis), whereas it may not converge to the min or may diverge completely away from the min with a very high learning rate. 
 
 
-<img width="321" alt="gd1" src="https://github.com/user-attachments/assets/f33b418f-8b59-4ae2-8e75-219fc96ef762" />
+
+<img width="442" alt="rs" src="https://github.com/user-attachments/assets/d40b8f98-9fff-473c-929c-d29691249c16" />
 
 
 
