@@ -10,7 +10,11 @@ The non-linear transformation might make us think logistic regression is a non-l
 
 <img width="422" alt="lr" src="https://github.com/user-attachments/assets/e63006db-b5e9-4fdb-942e-c8f93f49d503" />
 
-The odds ratio is basically clarifying how likely the numerator is - to happen relative to not happening.
+The odds ratio is basically clarifying how likely the numerator is - to happen relative to not happening. 
+
+<img width="388" alt="77" src="https://github.com/user-attachments/assets/769a130f-fa90-498d-864b-c93fec5e3d66" />
+
+The loss function typically to optimize algorithm for given data is log-loss (or cross entropy).
 
 <img width="374" alt="22" src="https://github.com/user-attachments/assets/5973b25f-ce10-4833-9d7c-e764ac9d2e77" />
 
@@ -36,7 +40,7 @@ i. Gradient Descent
 ii. MLE
 
 
-<img width="388" alt="77" src="https://github.com/user-attachments/assets/769a130f-fa90-498d-864b-c93fec5e3d66" />
+
 
 ------
 
