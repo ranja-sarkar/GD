@@ -9,6 +9,10 @@ The resulting probability is compared to a threshold to predict a class for y, b
 
 <img width="374" alt="22" src="https://github.com/user-attachments/assets/5973b25f-ce10-4833-9d7c-e764ac9d2e77" />
 
+
+<img width="422" alt="lr" src="https://github.com/user-attachments/assets/e63006db-b5e9-4fdb-942e-c8f93f49d503" />
+
+
 Examples:
 
 
