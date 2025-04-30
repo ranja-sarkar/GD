@@ -6,6 +6,7 @@ The resulting probability is compared to a threshold to predict a class for y, b
 
 <img width="305" alt="11" src="https://github.com/user-attachments/assets/12aab6df-8e98-43cf-b369-af154af8c350" />
 
+The non-linear transformation might make us think logistic regression is a non-linear model. However, the linearity does not lie in the probability output but in how the model constructs its decision boundary (the log-odds that is). 
 
 <img width="374" alt="22" src="https://github.com/user-attachments/assets/5973b25f-ce10-4833-9d7c-e764ac9d2e77" />
 
