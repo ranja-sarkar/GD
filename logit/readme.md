@@ -1,17 +1,18 @@
 
-# Binary classification by logistic regression
+# Binary classification by Logistic Regression
 
 There is an outcome y such that y falls into one of two categories (say 0 or 1).
 The resulting probability is compared to a threshold to predict a class for y, based on X.
 
 <img width="305" alt="11" src="https://github.com/user-attachments/assets/12aab6df-8e98-43cf-b369-af154af8c350" />
 
-The non-linear transformation might make us think logistic regression is a non-linear model. However, the linearity does not lie in the probability output but in how the model constructs its decision boundary (the log-odds that is). The odds ratio is basically clarifying how likely the numerator is - to happen relative to not happening.
-
-<img width="374" alt="22" src="https://github.com/user-attachments/assets/5973b25f-ce10-4833-9d7c-e764ac9d2e77" />
-
+The non-linear transformation might make us think logistic regression is a non-linear model. However, the linearity does not lie in the probability output but in how the model constructs its decision boundary (the log-odds that is). 
 
 <img width="422" alt="lr" src="https://github.com/user-attachments/assets/e63006db-b5e9-4fdb-942e-c8f93f49d503" />
+
+The odds ratio is basically clarifying how likely the numerator is - to happen relative to not happening.
+
+<img width="374" alt="22" src="https://github.com/user-attachments/assets/5973b25f-ce10-4833-9d7c-e764ac9d2e77" />
 
 
 Examples:
