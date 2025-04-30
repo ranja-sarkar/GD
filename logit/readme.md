@@ -44,6 +44,7 @@ Decision boundary is defined by
 
 <img width="380" alt="lr0" src="https://github.com/user-attachments/assets/dce8c5b0-01dd-4e53-81a9-9d1affc801fc" />
 
+The sigmoid function arises naturally from modeling the log-odds as a linear function. The linearity is in the log-odds, not the probability itself. 
 
 <img width="428" alt="lr1" src="https://github.com/user-attachments/assets/54c6c7bc-91b8-43fc-adb4-4122c1a72a05" />
 
