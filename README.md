@@ -13,7 +13,7 @@ In the context of machine learning, gradient descent is the algorithm for optimi
 
 
 
-**Chapter 4** of my book discusses the gradient descent algorithm and the variants of it.
+**Chapter 4** of my book discusses the gradient descent algorithm and its variants.
 
 <img width="115" alt="0" src="https://github.com/user-attachments/assets/c86f23ab-7707-408b-bfc7-ef5cddabdc58">
 
@@ -41,8 +41,17 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 
 
 
-Refer to my article on model hyperparameters - **learning rate**, **epoch**, and **batch** in the context of optimization of deep neural networks using the gradient descent algorithm:
-https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network
+References of linear regression and gradient descent hyper-parameters:
+
+1. https://ranjas.substack.com/p/linear-regression
+
+2. https://ranjas.substack.com/p/prediction-error
+
+3. GD in neural networks: https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network
+
+4. https://ranjas.substack.com/p/practical-methodology
+
+
 
 
 
