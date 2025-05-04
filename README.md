@@ -33,7 +33,7 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 
 
 
-**Selecting the appropriate learning rate is crucial in achieving an optimally performing model.** Learning rate controls the eﬀective capacity of the model in a more complicated way than other hyperparameters—the eﬀective capacity of the model is highest when the learning rate is correct for the optimization problem.
+**Selecting the appropriate learning rate is crucial in achieving an optimally performing model.** Learning rate controls the **eﬀective capacity of the model** in a more complicated way than other hyperparameters, which is highest when the learning rate is correctly chosen for optimization.
 
 
 <img width="605" alt="lr" src="https://github.com/user-attachments/assets/382743ba-3286-4f56-89a8-a1db7e38a38f" />
