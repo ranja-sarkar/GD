@@ -46,7 +46,6 @@ MAP estimates the most probable posterior distribution which includes prior know
 [In the Bayesian framework, we start with a belief (prior). We strengthen/weaken the prior with each evidence/datapoint that is, we update the belief to a degree. The updated belief is posterior.]
 
 
-------
 
 # Comparison to Linear Regression
 
