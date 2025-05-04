@@ -1,4 +1,4 @@
-# gradient descent
+# Gradient Descent
 
 Gradient descent literally means choosing a direction across a landscape and take whichever step gets us downhill, the step-size depending on the slope (gradient) of the hill.
 
@@ -20,7 +20,7 @@ In the context of machine learning, gradient descent is the algorithm for optimi
 Buy at Amazon: https://a.co/d/gw13Tv6
 
 
-Three linear regression models optimized with the gradient descent method (see the py file in this repo) with different learning rates have been shown in the figures below. 
+Apart from OLS, a linear regression model can be fitted by use of the gradient descent method with a learning rate.  
 
 <img width="409" alt="222" src="https://github.com/user-attachments/assets/bc15da37-102c-4bd8-abb4-6b74c29aa2d0" />
 <img width="137" alt="333" src="https://github.com/user-attachments/assets/5d953809-fd0d-4057-a5ef-b9e10f593ad3" />
@@ -36,13 +36,8 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 **Selecting the appropriate learning rate is crucial in achieving an optimally performing model.** Learning rate controls the eﬀective capacity of the model in a more complicated way than other hyperparameters—the eﬀective capacity of the model is highest when the learning rate is correct for the optimization problem.
 
 
-<img width="316" alt="1" src="https://github.com/user-attachments/assets/453a37ea-469a-4373-8a79-ad2589a2e957">
+<img width="605" alt="lr" src="https://github.com/user-attachments/assets/382743ba-3286-4f56-89a8-a1db7e38a38f" />
 
-
-<img width="320" alt="2" src="https://github.com/user-attachments/assets/5c2e2d4a-82b1-4fbf-bf7a-fd5cb6d40c1e">
-
-
-<img width="308" alt="3" src="https://github.com/user-attachments/assets/69659f9d-42f7-47e1-88a7-b818b5ad93c6">
 
 
 
