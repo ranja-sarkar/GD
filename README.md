@@ -41,7 +41,7 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 
 
 
-References of linear regression and gradient descent hyper-parameters:
+References:
 
 1. https://ranjas.substack.com/p/linear-regression
 
