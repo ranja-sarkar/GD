@@ -4,9 +4,6 @@ between predictor & response. A non-linear relationship between the predictor an
 
 -----
 
-References:
+Reference of log-log model: https://github.com/ranja-sarkar/Demand_curve/blob/main/README.md
 
-1. log-log model: https://github.com/ranja-sarkar/Demand_curve/blob/main/README.md
-
-2. Metrics and loss functions: https://ranjas.substack.com/p/model-scoring-and-decision-making
 
