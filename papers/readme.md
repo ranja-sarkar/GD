@@ -55,3 +55,12 @@ How do you detect the relationships and conclude a linear models isn't the optim
    <img width="298" alt="33" src="https://github.com/user-attachments/assets/5c0799bf-ea4b-49a9-bad1-d73a7a88bba4" />
 
 beta_0 is the intercept irrespective of the flag x2 has, beta_2 is the difference in the intercept between the two flags in x2, and beta_3 is the difference in slopes od x1 with the two values of x2. **The regression lines might or might not intersect.**
+
+Note:
+
+1. Higher-order interactions (like, of three features) are also possible.
+
+2. One can create interaction terms for two numerical features.
+
+    
+   
