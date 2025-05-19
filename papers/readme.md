@@ -62,5 +62,21 @@ Note:
 
 2. One can create interaction terms for two numerical features.
 
-    
+3. Adding interaction terms: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
+
+4. By adding new variables (interaction term as a multiplication of the original features) to the regression model, one can measure the effect of the interaction between them on the target. It's crucial to interpret the coefficient of the interaction term carefully to understand the direction and the strength of the relationship.
+
+5. By using interaction terms, one can make the specification of a linear model more flexible which can result in a better fit to the data and better predictive performance.
+   
+
+References:
+
+1. https://rinterested.github.io/statistics/lm_interactions_output_interpretation.html
+
+2. https://janhove.github.io/posts/2017-06-26-continuous-interactions/
+
+3. https://joelcarlson.github.io/2016/05/10/Exploring-Interactions/
+
+   
+   
    
