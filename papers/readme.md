@@ -51,4 +51,6 @@ How do you detect the relationships and conclude a linear models isn't the optim
 
 
   We see that without an interaction term beta_1 is the unique effect of x1 on y. And with an interaction term, the effect of x1 is different for different values of x2.
-   
+
+   <img width="298" alt="33" src="https://github.com/user-attachments/assets/5c0799bf-ea4b-49a9-bad1-d73a7a88bba4" />
+
