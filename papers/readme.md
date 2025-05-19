@@ -15,7 +15,7 @@ A non-linear relationship between the predictor and response/target might exist 
 
 ----
 
-How do you detect the relationships and conclude a linear models isn't the optimal one for your data?
+How do you detect the relationships and conclude a linear model is not the optimal one for your data?
 
 - Doing univariate and bivariate inspections of data before starting regression analyses. A simple scatter plot can reveal a curvilinear relationship.
 - Inspection of residuals.  If you fit a linear model to (curved) data, a scatter plot of residuals and the predictor will have patches of positive residuals in the middle, patches of negative residuals at either end (or vice versa).  This is a good sign that a linear model is not appropriate, and a polynomial model may do better.
