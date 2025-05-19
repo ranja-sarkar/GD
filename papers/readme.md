@@ -6,10 +6,12 @@
 
 A linearity in coefficients of (predictor) variables is the assumption of linear regression. Because it is X that is polynomial (squared or cubed), not the beta coefficient, the regression still qualifies as a linear model. 
 
+A linear model assumes that the effect of each feature/predictor on the dependent variable/target is independent of other predictors in the model. 
+
 <img width="439" alt="ee" src="https://github.com/user-attachments/assets/f6929675-01a4-4649-96a5-dda37ca6b2da" />
 
 
-A non-linear relationship between the predictor and response or target variable might exist while still preserving the linear model. 
+A non-linear relationship between the predictor and response/target might exist while still preserving the linear model. 
 
 How do you detect the relationships and conclude a linear models isn't the optimal one for your data?
 
