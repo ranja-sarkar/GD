@@ -38,7 +38,17 @@ How do you detect the relationships and conclude a linear models isn't the optim
 
   <img width="155" alt="cc1" src="https://github.com/user-attachments/assets/ae569e5b-8274-48fa-aae8-38652663a226" />
 
-  where, x1 is a continuous feature and x2 is a Boolean (0, 1) flag.
+  where, x1 is a continuous feature and x2 is a Boolean (0, 1) flag. Let's investigate the equation individually.
+
+  For x2 = 1, we have
+
+  <img width="83" alt="11" src="https://github.com/user-attachments/assets/87558bfa-ee7e-4889-ab34-ee505dd005d9" />
+
+  For x2 = 0, we have
+
+  
+  <img width="79" alt="22" src="https://github.com/user-attachments/assets/20b27523-dbf0-45a7-ac01-5918afc24cd8" />
+
 
 
 
