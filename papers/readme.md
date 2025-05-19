@@ -36,8 +36,9 @@ How do you detect the relationships and conclude a linear models isn't the optim
 
   **Example:**
 
-  
+  <img width="155" alt="cc1" src="https://github.com/user-attachments/assets/ae569e5b-8274-48fa-aae8-38652663a226" />
 
+  where, x1 is a continuous feature and x2 is a Boolean (0, 1) flag.
 
 
 
