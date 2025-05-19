@@ -13,6 +13,8 @@ A linear model assumes that the effect of each feature/predictor on the dependen
 
 A non-linear relationship between the predictor and response/target might exist while still preserving the linear model. 
 
+----
+
 How do you detect the relationships and conclude a linear models isn't the optimal one for your data?
 
 - Doing univariate and bivariate inspections of data before starting regression analyses. A simple scatter plot can reveal a curvilinear relationship.
@@ -60,7 +62,7 @@ Note:
 
 1. Higher-order interactions (like, of three features) are also possible.
 
-2. One can create interaction terms for two numerical features.
+2. One can also create interaction terms for two numerical features.
 
 3. Adding interaction terms: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
 
@@ -68,6 +70,7 @@ Note:
 
 5. By using interaction terms, one can make the specification of a linear model more flexible which can result in a better fit to the data and better predictive performance.
    
+----------
 
 References:
 
