@@ -21,10 +21,11 @@ How do you detect the relationships and conclude a linear models isn't the optim
   
 - By hypothesis that is, include a polynomial term in the equation
 
-------
+# Interactions in regression
 
+- Interaction terms enables examining whether the relationship between the target and an independent variable changes depending on another independent variable.
 
-Scale changes of the variables only affect the ontercepts and not the slopes if there's no multiplicative term like interaction or polynomial. 
+- Scale changes of the variables only affect the ontercepts and not the slopes only if there's no multiplicative term like interaction or polynomial. 
 
 
 
