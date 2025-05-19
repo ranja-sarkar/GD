@@ -27,7 +27,16 @@ How do you detect the relationships and conclude a linear models isn't the optim
 
 - Interaction terms enables examining whether the relationship between the target and an independent variable changes depending on another independent variable.
 
-- Scale changes of the variables only affect the ontercepts and not the slopes only if there's no multiplicative term like interaction or polynomial. 
+  <img width="173" alt="cc" src="https://github.com/user-attachments/assets/1cf81cc9-b6b9-407e-a29b-3a360e8516d3" />
+
+
+- Scale changes of the variables only affect the ontercepts and not the slopes only if there's no multiplicative term like interaction or polynomial.
+
+- An interaction term is effectively a multiplication of two (or more) features that have a joint effect on the target.
+
+  **Example:**
+
+  
 
 
 
