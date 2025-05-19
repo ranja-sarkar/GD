@@ -50,6 +50,5 @@ How do you detect the relationships and conclude a linear models isn't the optim
   <img width="79" alt="22" src="https://github.com/user-attachments/assets/20b27523-dbf0-45a7-ac01-5918afc24cd8" />
 
 
-
-
-
+  We see that  \beta_1 is the unique effect of \x_1 on y.
+   
