@@ -83,6 +83,8 @@ References:
 
 3. https://joelcarlson.github.io/2016/05/10/Exploring-Interactions/
 
+4. https://www.theanalysisfactor.com/using-marginal-means-to-explain-an-interaction/
+   
    
    
    
