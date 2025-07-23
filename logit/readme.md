@@ -32,7 +32,6 @@ MLE estimates the most likely distribution given the outcomes. Both MLE and MAP 
 
 MAP estimates the most probable posterior distribution which includes prior knowledge about the data and personal beliefs about the results. In MAP, the likelihood function gets weighted with some weight coming from the prior distribution. 
 
-[In the Bayesian framework, we start with a belief (prior). We strengthen/weaken the prior with each evidence/datapoint that is, we update the belief to a degree. The updated belief is posterior.]
 
 
 
