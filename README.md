@@ -50,8 +50,9 @@ References:
 
 4. https://ranjas.substack.com/p/practical-methodology
 
+----
 
-
+About **confidence interval** and **prediction interval**: https://sebastianraschka.com/books/ml-q-and-ai-chapters/ch26/#confidence-intervals-and-prediction-intervals
 
 
 
