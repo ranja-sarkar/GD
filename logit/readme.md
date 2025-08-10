@@ -46,8 +46,3 @@ MAP estimates the most probable posterior distribution which includes prior know
 
 
 
-
-
-<img width="428" alt="lr1" src="https://github.com/user-attachments/assets/54c6c7bc-91b8-43fc-adb4-4122c1a72a05" />
-
-
