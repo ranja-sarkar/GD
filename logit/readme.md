@@ -1,10 +1,13 @@
 
-# Binary classification by Logistic Regression
+# Logistic Regression
+
+![1](https://github.com/user-attachments/assets/291781c2-ac2c-4f0a-9900-325143938e48)
 
 There is an outcome y such that y falls into one of two categories (say 0 or 1).
-The resulting probability is compared to a threshold to predict a class for y, based on X.
+The resulting probability is compared to a threshold to predict a class for y, based on X. The decision boundary is defined by z = 0 which is a linear hyperplane.
 
-<img width="305" alt="11" src="https://github.com/user-attachments/assets/12aab6df-8e98-43cf-b369-af154af8c350" />
+![2](https://github.com/user-attachments/assets/b4188a72-16c3-4a2e-962e-e4a538b304e0)
+
 
 The non-linear transformation might make us think logistic regression is a non-linear model. However, the linearity does not lie in the probability output but in how the model constructs its decision boundary (the log-odds that is). 
 
@@ -35,7 +38,6 @@ MAP estimates the most probable posterior distribution which includes prior know
 
 
 
-# Comparison to Linear Regression
 
 Decision boundary (linear hyperplane) is defined by: 
 
