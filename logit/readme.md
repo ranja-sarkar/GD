@@ -3,7 +3,7 @@
 
 ![1](https://github.com/user-attachments/assets/291781c2-ac2c-4f0a-9900-325143938e48)
 
-There is an outcome y such that y falls into one of two categories (say 0 or 1).
+There is an outcome y such that y falls into one of two categories (say 0 or 1) or classes.
 The resulting probability is compared to a threshold to predict a class for y, based on X. The decision boundary (linear hyperplane) is defined by z = 0 in the 
 k-dimensional feature space.
 
@@ -40,7 +40,7 @@ i. Gradient Descent
 
 ii. MLE (maximum likelhood estimation)
 
-MLE estimates the most likely distribution given the outcomes. MAP estimates the most probable posterior distribution which includes prior knowledge about the data and personal beliefs about the results. Both MLE and MAP (maximum a posteriori) are methods/tools to find the parameters of a distribution that best fits the information available to us.  In MAP, the likelihood function gets weighted with some weight coming from the prior distribution. The prior is the only difference between MLE and MAP. When the prior is uniform (having same probability at all regions), MLE and MAP yield same estimates.
+MLE estimates the most likely distribution given the outcomes. MAP estimates the most probable posterior distribution which includes prior knowledge about the data and personal beliefs about the results. Both MLE and MAP (maximum a posteriori) are methods/tools to find the parameters of a distribution that best fits the information available to us.  In MAP, the likelihood function gets weighted with some weight coming from the prior distribution. The prior is the only difference between MLE and MAP. When the prior is uniform (having same probability at all regions), MLE and MAP yield same estimates. 
 
 
 
