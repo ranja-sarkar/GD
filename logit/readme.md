@@ -17,6 +17,11 @@ The non-linear transformation (sigmoid) might make us think logistic regression 
 **Logistic regression is a linear model because it models the log-odds as a linear combination of features. The sigmoid function maps the linear predictor to probabilities without affecting the linearity of the decision boundary. Despite its classification task and non-linear output, logistic regressiion earns its place in the family of linear regression models.**
 
 ---
+In linear regression, we model the expected value of a continuous outcome, whereas in logistic regression, we model the log-odds.
+
+![1](https://github.com/user-attachments/assets/b6a727a5-0301-4e5c-9372-de3f3203368d)
+
+![2](https://github.com/user-attachments/assets/a27bf2d8-7d07-4920-a70d-99d90412b82a)
 
 The odds ratio is basically clarifying how likely the numerator is - to happen relative to not happening. 
 
