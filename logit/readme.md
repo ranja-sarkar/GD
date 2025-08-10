@@ -22,10 +22,9 @@ The odds ratio is basically clarifying how likely the numerator is - to happen r
 
 <img width="388" alt="77" src="https://github.com/user-attachments/assets/769a130f-fa90-498d-864b-c93fec5e3d66" />
 
-The loss function typically to optimize algorithm for given data is log-loss (or cross entropy).
+The loss function typically to optimize algorithm for given data is log-loss (or binary cross entropy).
 
-<img width="374" alt="22" src="https://github.com/user-attachments/assets/5973b25f-ce10-4833-9d7c-e764ac9d2e77" />
-
+![3](https://github.com/user-attachments/assets/2158ac9d-ac9c-43ad-946d-39e7db67ed4c)
 
 
 -----
