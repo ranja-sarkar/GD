@@ -22,7 +22,7 @@ The odds ratio is basically clarifying how likely the numerator is - to happen r
 
 <img width="388" alt="77" src="https://github.com/user-attachments/assets/769a130f-fa90-498d-864b-c93fec5e3d66" />
 
-The loss function typically to optimize algorithm for given data is log-loss (or binary cross entropy).
+The loss function to optimize the algorithm is log-loss (or binary cross entropy).
 
 ![3](https://github.com/user-attachments/assets/2158ac9d-ac9c-43ad-946d-39e7db67ed4c)
 
@@ -40,10 +40,6 @@ MLE estimates the most likely distribution given the outcomes. Both MLE and MAP 
 MAP estimates the most probable posterior distribution which includes prior knowledge about the data and personal beliefs about the results. In MAP, the likelihood function gets weighted with some weight coming from the prior distribution. 
 
 
-
-
-
-<img width="380" alt="lr0" src="https://github.com/user-attachments/assets/dce8c5b0-01dd-4e53-81a9-9d1affc801fc" />
 
 
 
