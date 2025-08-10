@@ -12,11 +12,9 @@ k-dimensional feature space.
 
 The non-linear transformation (sigmoid) might make us think logistic regression is a non-linear model. However, the linearity does not lie in the probability output but in how the model constructs its decision boundary (the log-odds that is) as a linear function.  The linearity is in the log-odds, not the probability itself. 
 
-<img width="422" alt="lr" src="https://github.com/user-attachments/assets/e63006db-b5e9-4fdb-942e-c8f93f49d503" />
-
 ---
 
-**Logistic regression is a linear model because it models the log-odds as a linear combination of features. The sigmoid function maps the linear predictor to probabilities without affecting the linearity of the decision boundary. Despite its classification task and non=linear output, loigstic regressiion earns its place in the family of linear regression models.**
+**Logistic regression is a linear model because it models the log-odds as a linear combination of features. The sigmoid function maps the linear predictor to probabilities without affecting the linearity of the decision boundary. Despite its classification task and non-linear output, logistic regressiion earns its place in the family of linear regression models.**
 
 ---
 
