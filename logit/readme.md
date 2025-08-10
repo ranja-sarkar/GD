@@ -10,9 +10,15 @@ k-dimensional feature space.
 ![2](https://github.com/user-attachments/assets/b4188a72-16c3-4a2e-962e-e4a538b304e0)
 
 
-The non-linear transformation might make us think logistic regression is a non-linear model. However, the linearity does not lie in the probability output but in how the model constructs its decision boundary (the log-odds that is). 
+The non-linear transformation (sigmoid) might make us think logistic regression is a non-linear model. However, the linearity does not lie in the probability output but in how the model constructs its decision boundary (the log-odds that is) as a linear function.  The linearity is in the log-odds, not the probability itself. 
 
 <img width="422" alt="lr" src="https://github.com/user-attachments/assets/e63006db-b5e9-4fdb-942e-c8f93f49d503" />
+
+---
+
+**Logistic regression is a linear model because it models the log-odds as a linear combination of features. The sigmoid function maps the linear predictor to probabilities without affecting the linearity of the decision boundary. Despite its classification task and non=linear output, loigstic regressiion earns its place in the family of linear regression models.**
+
+---
 
 The odds ratio is basically clarifying how likely the numerator is - to happen relative to not happening. 
 
@@ -42,7 +48,7 @@ MAP estimates the most probable posterior distribution which includes prior know
 
 <img width="380" alt="lr0" src="https://github.com/user-attachments/assets/dce8c5b0-01dd-4e53-81a9-9d1affc801fc" />
 
-The sigmoid function arises naturally from modeling the log-odds as a linear function. The linearity is in the log-odds, not the probability itself. 
+
 
 <img width="428" alt="lr1" src="https://github.com/user-attachments/assets/54c6c7bc-91b8-43fc-adb4-4122c1a72a05" />
 
