@@ -23,11 +23,13 @@ In linear regression, we model the expected value of a continuous outcome, where
 
 ![2](https://github.com/user-attachments/assets/a27bf2d8-7d07-4920-a70d-99d90412b82a)
 
-The odds ratio is basically clarifying how likely the numerator is to happen relative to (denominator) not happening. Odds are calcuated as p/(1-p) which yields the ratio of the probability of happening to probability of not happening.
+---
+
+The odds ratio is basically clarifying how likely the numerator is to happen relative to (denominator) not happening. Odds are calcuated as p/(1-p) which yields the ratio of the probability of happening to the probability of not happening.
 
 If p = 0.75, it means the odds of happening are (0.75/0.25) that is 3 to 1. Of p = 0.5, the odds of happening and not happening are equally likely. 
 
-<img width="388" alt="77" src="https://github.com/user-attachments/assets/769a130f-fa90-498d-864b-c93fec5e3d66" />
+---
 
 The loss function to optimize the algorithm is log-loss (or binary cross entropy).
 
