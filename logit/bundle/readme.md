@@ -52,7 +52,7 @@ MLE estimates the most likely distribution given the outcomes. MAP estimates the
 
 ----
 
-Using scikit-learn to developa logistic regression model and then calibrating it:
+Using scikit-learn to develop s logistic regression model and calibrating it:
 
 1. https://scikit-learn.org/stable/modules/calibration.html
    
