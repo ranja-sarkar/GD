@@ -1,19 +1,3 @@
-# Linear parameters in regression model
-
-- Intercept (y-intercept)
-- Slope (how much y differs on an average for each unit difference in x, there can be multiple x(s) and each one has its own slope)
-- Residual variance
-
-A linearity in coefficients of (predictor) variables is the assumption of linear regression. Because it is X that is polynomial (squared or cubed), not the beta coefficient, the regression still qualifies as a linear model. 
-
-A linear model assumes that the effect of each feature/predictor on the dependent variable/target is independent of other predictors in the model. 
-
-<img width="439" alt="ee" src="https://github.com/user-attachments/assets/f6929675-01a4-4649-96a5-dda37ca6b2da" />
-
-
-A non-linear relationship between the predictor and response/target might exist while still preserving the linear model. 
-
-----
 
 How do you detect the relationships and conclude a linear model is not the optimal one for your data?
 
@@ -73,17 +57,7 @@ Note:
 
 5. By using interaction terms, one can make the specification of a linear model more flexible which can result in a better fit to the data and better predictive performance.
    
-----------
 
-References:
-
-1. https://rinterested.github.io/statistics/lm_interactions_output_interpretation.html
-
-2. https://janhove.github.io/posts/2017-06-26-continuous-interactions/
-
-3. https://joelcarlson.github.io/2016/05/10/Exploring-Interactions/
-
-4. https://www.theanalysisfactor.com/using-marginal-means-to-explain-an-interaction/
    
    
    
