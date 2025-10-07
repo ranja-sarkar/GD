@@ -45,17 +45,7 @@ beta_0 is the intercept irrespective of the flag x2 has, beta_2 is the differenc
 Introducing interaction term with statsmodels: https://github.com/erykml/medium_articles/blob/master/Statistics/interaction_terms_in_linear_regression.ipynb
 
 
-Note:
 
-1. Higher-order interactions (like, of three features) are also possible.
-
-2. One can also create interaction terms for two numerical features.
-
-3. Adding interaction terms with sklearn: https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
-
-4. By adding new variables (interaction term as a multiplication of the original features) to the regression model, one can measure the effect of the interaction between them on the target. It's crucial to interpret the coefficient of the interaction term carefully to understand the direction and the strength of the relationship.
-
-5. By using interaction terms, one can make the specification of a linear model more flexible which can result in a better fit to the data and better predictive performance.
    
 
    
