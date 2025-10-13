@@ -29,3 +29,11 @@ Unlike predictive ML models where there’s a target and predictions are validat
 
 **We can never observe both potential outcomes but only the one that actually occurs in causal models.**
 
+# References
+
+1. https://github.com/ranja-sarkar/GD/blob/main/papers/cause-PNAS.pdf
+   
+2. https://developers.google.com/meridian/docs/causal-inference/about-mmm-causal-inference-methodology
+
+3. https://github.com/py-why/dowhy
+
