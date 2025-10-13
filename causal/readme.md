@@ -11,9 +11,16 @@ since the effect might get diluted over time. Drawing causal inference is thus h
 
 # Measuring causal effect
 
-The measurement is done with the difference between the effect generated in the consumers stimulated with marketing gimmick (test group) and those not stimulated (control group). The effect has binary outcomes - one when the consumer receives the stimulus and zero when he/she does not recieve the stimulus.
+The measurement is done with the difference between the effect generated in the consumers stimulated with marketing gimmick (test group) and those not stimulated (control group). The effect has binary outcomes - one when the consumer receives the stimulus (factual) and zero when he/she does not recieve the stimulus (counterfactual).
 
 ![con](https://github.com/user-attachments/assets/6f912344-3efd-4c6c-9e46-8aa7c9e6d864)
 
 
 The stimulus is a treatment. The test and control groups must be randomized for an unbiased measurement. Choosing the groups randomly ensures that all covariates before the stimulus are kept in same proportions for the groups. This means there is no covariate that determines which group a consumer belongs to. This experiment is hence called randomized controlled trial (RCT).
+
+For example, if past (buying) frequency were the only confounder, the solution would be simple since the test group would be compared with the control group that had the same past frequency. In reality, there are more than 1.
+
+Unlike predictive ML models where there’s a target and predictions are validated against test data, there’s no ground truth or target in causal models. Validating the robustness of causal models is the bottleneck.
+
+**We can never observe both potential outcomes but only the one that actually occurs in causal models.**
+
