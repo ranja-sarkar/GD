@@ -7,7 +7,7 @@ Practical significance considers whether the difference between two actions (eff
 by sensitive I mean, the ones who help generate the company's most revenue. 
 
 The measurement of the impact a marketing effort or strategy generates on the business in the long-term when compared to no effort taken becomes complex 
-since the effect might get diluted over time. Thus it is necessary to infer the causal effect. 
+since the effect might get diluted over time. Drawing causal inference is thus hard in the long-term. Allocating advertising budget and estimating its impact on business in the long-term needs modeling and optimization. 
 
 # Measuring causal effect
 
