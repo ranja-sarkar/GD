@@ -1,9 +1,10 @@
 
-**Frequentist** -> Relative frequency of occurrence of an event (observed in repetitions) in an experiment is a measure of the probability of that event. It can be stated as 
-                   having a model assuming data.  
+**Frequentist** -> Relative frequency of occurrence of an event (observed in repetitions) in an experiment is a measure of the probability of that event.   
 
-**Bayesian** -> Having data assuming a model, which translates to saying we’re uncertain about our model but the ground truth (reality) is our data; *Focus on the degree of belief about an unknown. Probability is a measure of how likely something is, given our current knowledge.* 
+**Bayesian** -> We’re uncertain about our model but the ground truth (reality) is our data; *Focus on the degree of belief about an unknown. Probability is a measure of how likely something is, given our current knowledge.* 
 
+
+It is all about beliefs in a Bayesian approach. The data we collect updates our prior (initial) belief. The posterior represents our updated understanding. 
 
 ![bb](https://github.com/user-attachments/assets/dfe147be-3155-4708-bfe8-af3140404f16)
 
