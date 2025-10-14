@@ -12,6 +12,7 @@ Bayesian statistics finds the likelihood of alternatives explaining the data but
 
 ![bb](https://github.com/user-attachments/assets/c3197a67-a5be-4b7e-bc31-e31b43fbe338)
 
+Bayesian thinking is about changing our mind and updating how we understand the world. The data we observe/collect is all that's real, so our beliefs ultimately need to shift until they align with the data.
 
 # References
 
