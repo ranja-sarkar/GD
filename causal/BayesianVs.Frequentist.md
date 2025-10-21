@@ -19,4 +19,7 @@ Bayesian thinking is about changing our mind and updating how we understand the 
 1. https://bookdown.org/pbaumgartner/bayesian-fun/
 
 2. https://www.statsig.com/blog/bayesian-vs-frequentist-statistics
+
+3. https://www.r-bloggers.com/2019/05/bayesian-models-in-r-2/
+   
    
