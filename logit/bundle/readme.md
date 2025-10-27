@@ -16,7 +16,7 @@ The non-linear transformation (sigmoid) might make us think logistic regression 
 
 # Approaches to find the parameters or coefficients/weights in LR
 
-1. MLE (maximum likelhood estimation)
+**1. MLE (maximum likelhood estimation)**
 
 MLE estimates the most likely distribution given the outcomes that is, data. 
 
@@ -26,7 +26,9 @@ Both MLE and MAP are statistical methods to find the parameters of the model tha
 
 In MAP, the likelihood function gets weighted with some weight coming from the prior distribution. The prior is the only difference between MLE and MAP. When the prior is uniform (having same probability at all regions), MLE and MAP yield same estimates of parameters. 
 
-2. Gradient Descent
+**2. Gradient Descent**
+
+   https://github.com/ranja-sarkar/GD/blob/main/README.md
    
 ----
 
