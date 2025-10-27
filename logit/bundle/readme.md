@@ -14,6 +14,22 @@ The non-linear transformation (sigmoid) might make us think logistic regression 
 
 ---
 
+# Approaches to finding the parameters or coefficients/weights in logistic regression:
+
+1. MLE (maximum likelhood estimation)
+
+MLE estimates the most likely distribution given the outcomes that is, data. 
+
+MAP (maximum a posteriori) estimates the most probable posterior distribution which includes prior knowledge about the data and personal beliefs about the results. 
+
+Both MLE and MAP are methods/tools to find the parameters of the model that best fits the information available to us.  
+
+In MAP, the likelihood function gets weighted with some weight coming from the prior distribution. The prior is the only difference between MLE and MAP. When the prior is uniform (having same probability at all regions), MLE and MAP yield same estimates of parameters. 
+
+2. Gradient Descent
+   
+----
+
 **Logistic regression is a linear model because it models the log-odds as a linear combination of features. The sigmoid function maps the linear predictor to probabilities without affecting the linearity of the decision boundary. Despite its classification task and non-linear output, logistic regressiion earns its place in the family of generalized linear (regression) models.**
 
 ---
@@ -42,15 +58,6 @@ The loss function to optimize the algorithm is log-loss (or binary cross entropy
 
 -----
 
-There're 2 approaches to finding the parameters or feature coefficients/weights in logistic regression:
-
-i. Gradient Descent
-
-ii. MLE (maximum likelhood estimation)
-
-MLE estimates the most likely distribution given the outcomes. MAP estimates the most probable posterior distribution which includes prior knowledge about the data and personal beliefs about the results. Both MLE and MAP (maximum a posteriori) are methods/tools to find the parameters of a distribution that best fits the information available to us.  In MAP, the likelihood function gets weighted with some weight coming from the prior distribution. The prior is the only difference between MLE and MAP. When the prior is uniform (having same probability at all regions), MLE and MAP yield same estimates of parameters. 
-
-----
 
 Using scikit-learn to develop a binary classifier (logistic regression) model and calibrating it:
 
