@@ -1,5 +1,5 @@
 
-# Logistic Regression
+# Logistic Regression (LR)
 
 ![1](https://github.com/user-attachments/assets/291781c2-ac2c-4f0a-9900-325143938e48)
 
@@ -14,7 +14,7 @@ The non-linear transformation (sigmoid) might make us think logistic regression 
 
 ---
 
-# Approaches to finding the parameters or coefficients/weights in logistic regression:
+# Approaches to find the parameters or coefficients/weights in LR
 
 1. MLE (maximum likelhood estimation)
 
