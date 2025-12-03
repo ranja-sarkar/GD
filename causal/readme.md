@@ -31,9 +31,7 @@ Unlike predictive ML models where there’s a target and predictions are validat
 
 # References
 
-1. https://github.com/ranja-sarkar/GD/blob/main/papers/cause-PNAS.pdf
-   
-2. https://developers.google.com/meridian/docs/causal-inference/about-mmm-causal-inference-methodology
+1. https://developers.google.com/meridian/docs/causal-inference/about-mmm-causal-inference-methodology
 
-3. https://github.com/py-why/dowhy
+2. https://github.com/py-why/dowhy
 
