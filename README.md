@@ -42,18 +42,6 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 
 ------------
 
-References:
-
-1. https://ranjas.substack.com/p/linear-regression
-
-2. https://ranjas.substack.com/p/prediction-error
-
-3. GD in neural networks: https://open.substack.com/pub/ranjas/p/hyper-parameters-of-a-neural-network
-
-4. https://ranjas.substack.com/p/practical-methodology
-
-----
-
 About **confidence interval** and **prediction interval**: https://sebastianraschka.com/books/ml-q-and-ai-chapters/ch26/#confidence-intervals-and-prediction-intervals
 
 
