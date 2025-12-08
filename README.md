@@ -17,12 +17,7 @@ In the context of machine learning, gradient descent is the algorithm for optimi
 
 **Chapter 4** of my book discusses the gradient descent algorithm and its variants.
 
-<img width="115" alt="0" src="https://github.com/user-attachments/assets/c86f23ab-7707-408b-bfc7-ef5cddabdc58">
-
-Buy at Amazon: https://a.co/d/gw13Tv6
-
-
-Apart from OLS, a linear regression model can be fitted by use of the gradient descent method with a learning rate.  
+Apart from OLS, a linear regression model can be optimized using gradient descent method with a learning rate.  
 
 <img width="409" alt="222" src="https://github.com/user-attachments/assets/bc15da37-102c-4bd8-abb4-6b74c29aa2d0" />
 <img width="137" alt="333" src="https://github.com/user-attachments/assets/5d953809-fd0d-4057-a5ef-b9e10f593ad3" />
