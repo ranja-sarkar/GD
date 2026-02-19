@@ -1,11 +1,7 @@
 
 # Logistic Regression (LR)
 
-![1](https://github.com/user-attachments/assets/291781c2-ac2c-4f0a-9900-325143938e48)
 
-There is an outcome y such that y falls into one of two categories (say 0 or 1) or classes.
-The resulting probability is compared to a threshold to predict a class for y based on X. The decision boundary (linear hyperplane) is defined by z = 0 in the 
-k-dimensional feature space.
 
 ![2](https://github.com/user-attachments/assets/b4188a72-16c3-4a2e-962e-e4a538b304e0)
 
