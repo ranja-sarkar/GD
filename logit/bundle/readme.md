@@ -3,12 +3,9 @@
 
 
 
-![2](https://github.com/user-attachments/assets/b4188a72-16c3-4a2e-962e-e4a538b304e0)
-
 
 The non-linear transformation (sigmoid) might make us think logistic regression is a non-linear model. However, the linearity does not lie in the probability output but in how the model constructs its decision boundary (the log-odds that is) as a linear function.  The linearity is in the log-odds, not the probability itself. 
 
----
 
 # Approaches to find the parameters or coefficients/weights in LR
 
