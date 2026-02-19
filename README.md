@@ -38,7 +38,7 @@ In linear regression, we model the expected value.
 <img width="379" height="36" alt="01" src="https://github.com/user-attachments/assets/bd9b9fa5-ac7b-4a9f-a192-658c8cd14117" />
 
 
-In logistic regression, we model the log-odds. The odds (ratio) is basically clarifying how likely the numerator is to happen relative to (denominator) not happening. Odds are calcuated as p/(1-p) which yields the ratio of the probability of happening to the probability of not happening. For example, if p = 0.5, the odds of happening and not happening are equally likely.
+In logistic regression, we model the log-odds. The odds (ratio) is basically clarifying the likeliness of (numerator) happenng relative to (denominator) not happening. Odds are calcuated as p/(1-p) which yields the ratio of the probability of happening to the probability of not happening. For example, if p = 0.5, the odds of happening and not happening are equally likely.
 
 
 
