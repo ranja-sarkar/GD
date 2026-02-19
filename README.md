@@ -31,6 +31,14 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 
 <img width="605" alt="lr" src="https://github.com/user-attachments/assets/382743ba-3286-4f56-89a8-a1db7e38a38f" />
 
+---
+
+In linear regression, we model the expected value.
+
+<img width="379" height="36" alt="01" src="https://github.com/user-attachments/assets/bd9b9fa5-ac7b-4a9f-a192-658c8cd14117" />
 
 
+In logistic regression, we model the log-odds. 
+
+<img width="527" height="77" alt="02" src="https://github.com/user-attachments/assets/a82be645-cef4-4aa8-9710-794235f2088a" />
 
