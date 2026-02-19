@@ -1,4 +1,3 @@
-# Gradient Descent
 
 Gradient descent literally means choosing a direction across a landscape and take whichever step gets us downhill, the step-size depending on the slope (gradient) of the hill.
 
@@ -32,9 +31,6 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 
 <img width="605" alt="lr" src="https://github.com/user-attachments/assets/382743ba-3286-4f56-89a8-a1db7e38a38f" />
 
-------------
-
-About **confidence interval** and **prediction interval**: https://sebastianraschka.com/books/ml-q-and-ai-chapters/ch26/#confidence-intervals-and-prediction-intervals
 
 
 
