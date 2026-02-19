@@ -42,6 +42,7 @@ There is an outcome y such that y falls into one of two categories (say 0 or 1) 
 
 <img width="353" height="51" alt="022" src="https://github.com/user-attachments/assets/ae14f7b9-96bf-411d-b8b6-9138825ca055" />
 
+The linearity does not lie in the probability output but in how the model constructs its decision boundary as a linear function. The linearity is in the log-odds, not the probability itself.
 
 📌 Despite its classification task and non-linear output, logistic regressiion earns its place in the family of generalized linear (regression) models.
 
