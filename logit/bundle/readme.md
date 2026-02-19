@@ -1,12 +1,4 @@
 
-# Logistic Regression (LR)
-
-
-
-
-The non-linear transformation (sigmoid) might make us think logistic regression is a non-linear model. However, the linearity does not lie in the probability output but in how the model constructs its decision boundary (the log-odds that is) as a linear function.  The linearity is in the log-odds, not the probability itself. 
-
-
 # Approaches to find the parameters or coefficients/weights in LR
 
 **1. MLE (maximum likelhood estimation)**
