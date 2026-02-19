@@ -34,14 +34,6 @@ In MAP, the likelihood function gets weighted with some weight coming from the p
 
 **Logistic regression is a linear model because it models the log-odds as a linear combination of features. The sigmoid function maps the linear predictor to probabilities without affecting the linearity of the decision boundary. Despite its classification task and non-linear output, logistic regressiion earns its place in the family of generalized linear (regression) models.**
 
----
-
-
-The odds (ratio) is basically clarifying how likely the numerator is to happen relative to (denominator) not happening. Odds are calcuated as p/(1-p) which yields the ratio of the probability of happening to the probability of not happening.
-
-If p = 0.75, it means the odds of happening are (0.75/0.25) that is 3 to 1. 
-
-If p = 0.5, the odds of happening and not happening are equally likely. 
 
 ---
 
