@@ -1,5 +1,4 @@
 
-# Approaches to find the parameters or coefficients/weights in LR
 
 **1. MLE (maximum likelhood estimation)**
 
@@ -11,16 +10,8 @@ Both MLE and MAP are statistical methods to find the parameters of the model tha
 
 In MAP, the likelihood function gets weighted with some weight coming from the prior distribution. The prior is the only difference between MLE and MAP. When the prior is uniform (having same probability at all regions), MLE and MAP yield same estimates of parameters. 
 
-**2. Gradient Descent**
-
-   https://github.com/ranja-sarkar/GD/blob/main/README.md
-   
 ----
 
-**Logistic regression is a linear model because it models the log-odds as a linear combination of features. The sigmoid function maps the linear predictor to probabilities without affecting the linearity of the decision boundary. Despite its classification task and non-linear output, logistic regressiion earns its place in the family of generalized linear (regression) models.**
-
-
----
 
 The loss function to optimize the algorithm is log-loss (or binary cross entropy).
 
