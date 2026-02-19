@@ -35,9 +35,12 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 
 Logistic regression is a linear model because it models the log-odds as a linear combination of features. The sigmoid function maps the linear predictor to probabilities without affecting the linearity of the decision boundary. 
 
-<img width="376" height="63" alt="01" src="https://github.com/user-attachments/assets/3667dcd1-94c1-4f88-a105-7f71aa35d463" />
+<img width="376" height="63" alt="011" src="https://github.com/user-attachments/assets/ac5f2f4f-a7b4-4726-9150-c40648d58435" />
+
 
 There is an outcome y such that y falls into one of two categories (say 0 or 1) or classes. The resulting probability is compared to a threshold to predict a class for y based on X. The decision boundary (linear hyperplane) is defined by z = 0 in the k-dimensional feature space.
+
+<img width="353" height="51" alt="022" src="https://github.com/user-attachments/assets/ae14f7b9-96bf-411d-b8b6-9138825ca055" />
 
 
 📌 Despite its classification task and non-linear output, logistic regressiion earns its place in the family of generalized linear (regression) models.
