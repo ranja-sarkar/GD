@@ -1,5 +1,5 @@
 
-**Gradient descent** literally means choosing a direction across a landscape and take whichever step gets us downhill, the step-size depending on the slope/gradient of the hill.
+**Gradient descent** means choosing a direction across a landscape and take whichever step gets us downhill, the step-size depending on the slope/gradient of the hill.
 As an example, consider a professional journey which usually is gradient **ascent**. You start at a point in a typically rough terrain, your goal is to reach a 'good enough' or optimum point, you achieve it by taking small steps in the direction **upward** of the terrain's slope.
 
 
