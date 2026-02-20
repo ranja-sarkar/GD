@@ -27,6 +27,7 @@ With too small a step-size or learning rate, the algorithm may reach the maximum
 
 Selecting appropriate learning rate is crucial in achieving an optimally performing model. Learning rate controls the eﬀective capacity of the model in a more complicated way than other hyperparameters of the algorithm. The model capacity is highest when the learning rate is correctly chosen for optimization.
 
+Linear regression is a neural network with [linear activation function](https://ranja-sarkar.github.io/2025/11/28/tests-&-measures.html).
 
 
 # Logistic Regression
