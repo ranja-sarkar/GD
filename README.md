@@ -27,12 +27,12 @@ With too small a step-size or learning rate, the algorithm may reach the maximum
 
 Selecting appropriate learning rate is crucial in achieving an optimally performing model. Learning rate controls the eﬀective capacity of the model in a more complicated way than other hyperparameters of the algorithm. The model capacity is highest when the learning rate is correctly chosen for optimization.
 
-Linear regression is a neural network with [linear activation function](https://ranja-sarkar.github.io/2025/11/28/tests-&-measures.html).
+📌 Linear regression is a neural network with [linear activation function](https://ranja-sarkar.github.io/2025/11/28/tests-&-measures.html).
 
 
 # Logistic Regression
 
-Logistic regression is a linear model because it models the log-odds as a linear combination of features. The sigmoid function maps the linear predictor to probabilities without affecting the linearity of the decision boundary. 
+**Logistic regression is a linear model** because it models the log-odds as a linear combination of features. The sigmoid function maps the linear predictor to probabilities without affecting the linearity of the decision boundary. 
 
 <img width="376" height="63" alt="011" src="https://github.com/user-attachments/assets/ac5f2f4f-a7b4-4726-9150-c40648d58435" />
 
@@ -56,7 +56,7 @@ The linearity does not lie in the probability output but in how the model constr
 
 The odds (ratio) clarifies the likeliness of (numerator) happenng relative to (denominator) not happening. Odds are calcuated as p/(1-p) which yields the ratio of the probability of happening to the probability of not happening. For example, if p = 0.5, the odds of happening and not happening are equally likely.
 
-Logistic regression is a neural network with the non-linear activation function, called the sigmoid.
+📌 Logistic regression is a neural network with the non-linear activation function, called the sigmoid.
 
 <img width="355" height="143" alt="lr" src="https://github.com/user-attachments/assets/acde2888-f0cc-4c8d-96c2-ac8a8f1a8649" />
 
