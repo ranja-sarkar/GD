@@ -15,7 +15,7 @@ As an example, consider a professional journey which usually is gradient **ascen
 
 # Linear Regression
 
-Apart from OLS, a linear regression model can be optimized using gradient descent method with a learning rate.  
+A linear regression model can be optimized using gradient descent [method](https://github.com/ranja-sarkar/GD/blob/dc7166c754c96bb6d3af625bce60f448c27be5b9/lr_gd.py).  
 
 <img width="409" alt="222" src="https://github.com/user-attachments/assets/bc15da37-102c-4bd8-abb4-6b74c29aa2d0" />
 <img width="137" alt="333" src="https://github.com/user-attachments/assets/5d953809-fd0d-4057-a5ef-b9e10f593ad3" />
