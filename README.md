@@ -24,14 +24,12 @@ With too small a learning rate, the algorithm may reach the maximum permissible 
 
 
 
-<img width="442" alt="rs" src="https://github.com/user-attachments/assets/d40b8f98-9fff-473c-929c-d29691249c16" />
 
 
 
 **Selecting the appropriate learning rate is crucial in achieving an optimally performing model.** Learning rate controls the **eﬀective capacity of the model** in a more complicated way than other hyperparameters, which is highest when the learning rate is correctly chosen for optimization.
 
 
-<img width="605" alt="lr" src="https://github.com/user-attachments/assets/382743ba-3286-4f56-89a8-a1db7e38a38f" />
 
 # Logistic Regression
 
