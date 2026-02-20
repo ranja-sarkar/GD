@@ -52,7 +52,12 @@ The linearity does not lie in the probability output but in how the model constr
 
 **In logistic regression, we model the log-odds.** 
 
-The odds (ratio) is basically clarifying the likeliness of (numerator) happenng relative to (denominator) not happening. Odds are calcuated as p/(1-p) which yields the ratio of the probability of happening to the probability of not happening. For example, if p = 0.5, the odds of happening and not happening are equally likely.
-
 <img width="527" height="77" alt="02" src="https://github.com/user-attachments/assets/a82be645-cef4-4aa8-9710-794235f2088a" />
 
+The odds (ratio) is basically clarifying the likeliness of (numerator) happenng relative to (denominator) not happening. Odds are calcuated as p/(1-p) which yields the ratio of the probability of happening to the probability of not happening. For example, if p = 0.5, the odds of happening and not happening are equally likely.
+
+Logistic regression is a neural network with the non-linear activation function, called the sigmoid.
+
+<img width="355" height="143" alt="lr" src="https://github.com/user-attachments/assets/acde2888-f0cc-4c8d-96c2-ac8a8f1a8649" />
+
+Switching from linear regression (continuous outcome y) to logistic regression (categorical outcome y) is basically switching from a linear funtion to the nonlinear sigmoid function, the model still remaining linear and the its output reflecting the classification of dataset.
