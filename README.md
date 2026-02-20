@@ -1,6 +1,6 @@
 
-Gradient descent literally means choosing a direction across a landscape and take whichever step gets us downhill, the step-size depending on the slope (gradient) of the hill.
-As an example, consider a professional journey which usually is gradient ascent. You start at a point in a typically rough terrain, your goal is to reach a 'good enough' or optimum point, you achieve it by taking small steps in the direction (upward) of the terrain's slope/gradient.
+Gradient descent literally means choosing a direction across a landscape and take whichever step gets us downhill, the step-size depending on the slope/gradient of the hill.
+As an example, consider a professional journey which usually is gradient ascent. You start at a point in a typically rough terrain, your goal is to reach a 'good enough' or optimum point, you achieve it by taking small steps in the direction (upward) of the terrain's slope.
 
 
 <img width="235" alt="gd" src="https://github.com/user-attachments/assets/efd62049-6bc1-4d67-be80-c62d507441c6" />
@@ -8,7 +8,6 @@ As an example, consider a professional journey which usually is gradient ascent.
 
 In the context of machine learning, gradient descent is the algorithm for optimization while training a model. **Chapter 4** of my book discusses the gradient descent algorithm and its variants - vanilla gradient descent, same as **batch gradient descent**, **mini-batch gradient descent**, and **stochastic gradient descent (SGD)**. 
 
-<img width="266" alt="gd" src="https://github.com/user-attachments/assets/90e01b26-0c05-4c8c-90e3-3c11e3ab73e9" />
 <img width="830" alt="gd0" src="https://github.com/user-attachments/assets/c3963935-788d-4da3-91f0-6ff087183911" />
 
 
