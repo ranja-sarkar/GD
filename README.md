@@ -1,12 +1,12 @@
 
-Gradient descent literally means choosing a direction across a landscape and take whichever step gets us downhill, the step-size depending on the slope/gradient of the hill.
+**Gradient descent** literally means choosing a direction across a landscape and take whichever step gets us downhill, the step-size depending on the slope/gradient of the hill.
 As an example, consider a professional journey which usually is gradient **ascent**. You start at a point in a typically rough terrain, your goal is to reach a 'good enough' or optimum point, you achieve it by taking small steps in the direction **upward** of the terrain's slope.
 
 
 <img width="235" alt="gd" src="https://github.com/user-attachments/assets/efd62049-6bc1-4d67-be80-c62d507441c6" />
 
 
-[Gradient descent](https://github.com/ranja-sarkar/GD/blob/890a79722dbe8e4d26d57795c88b67f53cb020f6/causal/GD.ipynb) is an iterative optimization algorithm that estimates the set of coefficients/weights in regression equations/models, that is yields the minimum of a convex function.
+[Gradient descent](https://github.com/ranja-sarkar/GD/blob/890a79722dbe8e4d26d57795c88b67f53cb020f6/causal/GD.ipynb) is an iterative optimization algorithm that estimates the set of coefficients/weights in regression equations/models, that is yields the minimum of a convex function. The first derivative is calculated at points on the surface to descend and this derivative gives teh steepness of the curve.
 
 **Chapter 4** of my [book](https://www.packtpub.com/en-in/product/a-handbook-of-mathematical-models-with-python-9781804617069) discusses the gradient descent algorithm and its variants - vanilla gradient descent (batch gradient descent), mini-batch gradient descent, and stochastic gradient descent (SGD). SGD is widely used tooptimize neural networks. This algorithm has tunable parameters like all algorithms have which are discussed in the chapter.
 
@@ -54,10 +54,10 @@ The linearity does not lie in the probability output but in how the model constr
 
 <img width="527" height="77" alt="02" src="https://github.com/user-attachments/assets/a82be645-cef4-4aa8-9710-794235f2088a" />
 
-The odds (ratio) is basically clarifying the likeliness of (numerator) happenng relative to (denominator) not happening. Odds are calcuated as p/(1-p) which yields the ratio of the probability of happening to the probability of not happening. For example, if p = 0.5, the odds of happening and not happening are equally likely.
+The odds (ratio) clarifies the likeliness of (numerator) happenng relative to (denominator) not happening. Odds are calcuated as p/(1-p) which yields the ratio of the probability of happening to the probability of not happening. For example, if p = 0.5, the odds of happening and not happening are equally likely.
 
 Logistic regression is a neural network with the non-linear activation function, called the sigmoid.
 
 <img width="355" height="143" alt="lr" src="https://github.com/user-attachments/assets/acde2888-f0cc-4c8d-96c2-ac8a8f1a8649" />
 
-Switching from linear regression (continuous outcome y) to logistic regression (categorical outcome y) is basically switching from a linear funtion to the nonlinear sigmoid function, the model still remaining linear and the its output reflecting the classification of dataset.
+Switching from linear regression (continuous outcome y) to logistic regression (categorical outcome y) is basically switching from a linear function to nonlinear sigmoid function, the model still remaining linear and its output reflecting classification of the dataset.
