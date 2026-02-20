@@ -25,7 +25,7 @@ With too small a step-size or learning rate, the algorithm may reach the maximum
 <img width="244" height="196" alt="gd" src="https://github.com/user-attachments/assets/4b54d73f-34a9-4eba-a155-0b3ff6c5d7dd" />
 
 
-Selecting the appropriate learning rate is crucial in achieving an optimally performing model.** Learning rate controls the **eﬀective capacity of the model** in a more complicated way than other hyperparameters, which is highest when the learning rate is correctly chosen for optimization.
+Selecting appropriate learning rate is crucial in achieving an optimally performing model. Learning rate controls the eﬀective capacity of the model in a more complicated way than other hyperparameters of the algorithm. The model capacity is highest when the learning rate is correctly chosen for optimization.
 
 
 
