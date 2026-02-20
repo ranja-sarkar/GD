@@ -60,7 +60,7 @@ Logistic regression is a neural network with the non-linear activation function,
 
 <img width="355" height="143" alt="lr" src="https://github.com/user-attachments/assets/acde2888-f0cc-4c8d-96c2-ac8a8f1a8649" />
 
-Switching from linear regression (continuous outcome y) to logistic regression (categorical outcome y) is basically switching from a linear function to nonlinear sigmoid function for the mathematical operation to happen with the inputs, the model still remaining linear and its output reflecting classification of the dataset.
+Switching from linear regression (continuous outcome y) to logistic regression (categorical outcome y) is basically switching from a linear function to nonlinear sigmoid function for the mathematical operation on the inputs to happen, the model still remaining linear and its output reflecting classification of the dataset.
 
 ---
 
@@ -79,7 +79,7 @@ where n is the number of samples, indexed by i and p is the model prediction for
 
 ---
 
-The output of a logistic regression model is a probability, which based on a probability threshold is assigned a label for example, 0 or 1 for binary classification. So such models most of the times need to be [calibrated](https://scikit-learn.org/stable/modules/calibration.html) for reliable results. Calibration curves, also referred to as reliability diagrams compare how well the probabilistic predictions of a binary classifier are calibrated.
+The output of a logistic regression model is a probability, which based on a probability threshold is assigned a label for example, 0 or 1 for binary classification. So such models most of the times need to be [calibrated](https://scikit-learn.org/stable/modules/calibration.html) for reliable results. Calibration curves or plots, also referred to as reliability diagrams compare how well the probabilistic predictions of a binary classifier are calibrated.
 
 
 ![cc](https://github.com/user-attachments/assets/38cfca4d-ec62-4256-a951-d3e154c1feb1)
