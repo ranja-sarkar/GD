@@ -79,7 +79,7 @@ where n is the number of samples, indexed by i and p is the model prediction for
 
 ---
 
-The output of a logistic regression model is a probability, which based on a probability threshold is assigned a label for example, 0 or 1 for binary classification. So such models most of the times need to be [calibrated](https://scikit-learn.org/stable/modules/calibration.html) for reliable results. Calibration curves or plots, also referred to as reliability diagrams compare how well the probabilistic predictions of a binary classifier are calibrated.
+The output of a [logistic regression model](https://github.com/ranja-sarkar/GD/blob/736eafc8eb1c889379347ceb337d2e722e100665/logit/LogitRegression.ipynb) is a probability, which based on a probability threshold is assigned a label for example, 0 or 1 for binary classification. So such models most of the times need to be [calibrated](https://scikit-learn.org/stable/modules/calibration.html) for reliable results. Calibration curves or plots, also referred to as reliability diagrams compare how well the probabilistic predictions of a binary classifier are calibrated.
 
 
 ![cc](https://github.com/user-attachments/assets/38cfca4d-ec62-4256-a951-d3e154c1feb1)
