@@ -1,12 +1,14 @@
 
 Gradient descent literally means choosing a direction across a landscape and take whichever step gets us downhill, the step-size depending on the slope/gradient of the hill.
-As an example, consider a professional journey which usually is gradient ascent. You start at a point in a typically rough terrain, your goal is to reach a 'good enough' or optimum point, you achieve it by taking small steps in the direction (upward) of the terrain's slope.
+As an example, consider a professional journey which usually is gradient **ascent**. You start at a point in a typically rough terrain, your goal is to reach a 'good enough' or optimum point, you achieve it by taking small steps in the direction **upward** of the terrain's slope.
 
 
 <img width="235" alt="gd" src="https://github.com/user-attachments/assets/efd62049-6bc1-4d67-be80-c62d507441c6" />
 
 
-In the context of machine learning, gradient descent is the algorithm for optimization while training a model. **Chapter 4** of my book discusses the gradient descent algorithm and its variants - vanilla gradient descent, same as **batch gradient descent**, **mini-batch gradient descent**, and **stochastic gradient descent (SGD)**. 
+[Gradient descent](https://github.com/ranja-sarkar/GD/blob/890a79722dbe8e4d26d57795c88b67f53cb020f6/causal/GD.ipynb) is an iterative optimization algorithm that estimates the set of coefficients/weights in regression equations/models, that is yields the minimum of a convex function.
+
+**Chapter 4** of my [book](https://www.packtpub.com/en-in/product/a-handbook-of-mathematical-models-with-python-9781804617069) discusses the gradient descent algorithm and its variants - vanilla gradient descent (batch gradient descent), mini-batch gradient descent, and stochastic gradient descent (SGD). SGD is widely used tooptimize neural networks. 
 
 <img width="830" alt="gd0" src="https://github.com/user-attachments/assets/c3963935-788d-4da3-91f0-6ff087183911" />
 
