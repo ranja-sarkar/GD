@@ -15,15 +15,17 @@ As an example, consider a professional journey which usually is gradient **ascen
 
 # Linear Regression
 
-A linear regression model can be optimized using gradient descent [method](https://github.com/ranja-sarkar/GD/blob/dc7166c754c96bb6d3af625bce60f448c27be5b9/lr_gd.py). The algorithm parameter 'learning rate' controls the step size of the optimization. 
+A linear regression model can be optimized using gradient descent [method](https://github.com/ranja-sarkar/GD/blob/dc7166c754c96bb6d3af625bce60f448c27be5b9/lr_gd.py). The algorithm parameter 'learning rate' controls the incremental steps of optimization. 
 
 <img width="409" alt="222" src="https://github.com/user-attachments/assets/bc15da37-102c-4bd8-abb4-6b74c29aa2d0" />
 <img width="137" alt="333" src="https://github.com/user-attachments/assets/5d953809-fd0d-4057-a5ef-b9e10f593ad3" />
 
-With too small a learning rate, the algorithm may reach the maximum permissible number of iterations before reaching the minimum cost (loss function), whereas it may not converge to the minimum or may diverge completely away from it with a very high learning rate. 
+With too small a step-size or learning rate, the algorithm may reach the maximum permissible number of iterations before reaching the minimum cost (loss function), whereas it may not converge to the minimum or may diverge completely away from it with a very high learning rate. 
+
+<img width="244" height="196" alt="gd" src="https://github.com/user-attachments/assets/4b54d73f-34a9-4eba-a155-0b3ff6c5d7dd" />
 
 
-**Selecting the appropriate learning rate is crucial in achieving an optimally performing model.** Learning rate controls the **eﬀective capacity of the model** in a more complicated way than other hyperparameters, which is highest when the learning rate is correctly chosen for optimization.
+Selecting the appropriate learning rate is crucial in achieving an optimally performing model.** Learning rate controls the **eﬀective capacity of the model** in a more complicated way than other hyperparameters, which is highest when the learning rate is correctly chosen for optimization.
 
 
 
