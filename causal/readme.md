@@ -1,9 +1,5 @@
 
 
-![con](https://github.com/user-attachments/assets/6f912344-3efd-4c6c-9e46-8aa7c9e6d864)
-
-
-**The stimulus is a treatment.*
 
 The test and control groups must be randomized for an unbiased measurement. Choosing the groups randomly ensures that all covariates before the stimulus are equal for the groups. This means there is no covariate that determines which group a consumer belongs to. This experiment is hence called randomized controlled trial (RCT).
 
