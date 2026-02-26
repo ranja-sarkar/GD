@@ -1,9 +1,5 @@
 
 
-# Measuring causal effect
-
-The measurement is done with the difference between the effect generated in the consumers stimulated with marketing gimmick (test group) and those not stimulated (control group). The effect has binary outcomes - one when the consumer receives the stimulus (factual) and zero when he/she does not recieve the stimulus (counterfactual).
-
 ![con](https://github.com/user-attachments/assets/6f912344-3efd-4c6c-9e46-8aa7c9e6d864)
 
 
