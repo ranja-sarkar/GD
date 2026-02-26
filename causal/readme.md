@@ -1,8 +1,5 @@
 
 
-The measurement of the impact a marketing effort or strategy generates on the business in the long-term when compared to no effort taken becomes complex 
-since the effect might get diluted over time. Drawing causal inference is thus hard in the long-term. Allocating advertising budget and estimating its impact on business in the long-term needs modeling and optimization. 
-
 # Measuring causal effect
 
 The measurement is done with the difference between the effect generated in the consumers stimulated with marketing gimmick (test group) and those not stimulated (control group). The effect has binary outcomes - one when the consumer receives the stimulus (factual) and zero when he/she does not recieve the stimulus (counterfactual).
