@@ -6,7 +6,7 @@ As an example, consider a professional journey which usually is gradient **ascen
 <img width="235" alt="gd" src="https://github.com/user-attachments/assets/efd62049-6bc1-4d67-be80-c62d507441c6" />
 
 
-[Gradient descent](https://github.com/ranja-sarkar/GD/blob/890a79722dbe8e4d26d57795c88b67f53cb020f6/causal/GD.ipynb) is an iterative optimization algorithm that estimates the set of coefficients/weights in regression equations/models, that is yields the minimum of a convex function. The first derivative is calculated at points on the surface to descend and this derivative gives the steepness of the curve.
+[Gradient descent](https://github.com/ranja-sarkar/GD/blob/42135d5afd9cfbc597ba909c387817b09e656e03/GD.ipynb) is an iterative optimization algorithm that estimates the set of coefficients/weights in regression equations/models, that is yields the minimum of a convex function. The first derivative is calculated at points on the surface to descend and this derivative gives the steepness of the curve.
 
 **Chapter 4** of my [book](https://www.packtpub.com/en-in/product/a-handbook-of-mathematical-models-with-python-9781804617069) discusses the gradient descent algorithm and its variants - vanilla gradient descent (batch gradient descent), mini-batch gradient descent, and stochastic gradient descent (SGD). SGD is widely used to optimize [neural networks](https://ranja-sarkar.github.io/2026/02/12/neural-network.html). This algorithm has tunable parameters like all algorithms have which are discussed in the chapter.
 
