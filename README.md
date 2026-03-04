@@ -15,7 +15,7 @@ As an example, consider a professional journey which usually is gradient **ascen
 
 # Linear Regression
 
-A demonstrative model built using OLS (stratsmodels) is [here](https://gist.github.com/ranja-sarkar/58702c2ee2eaa6410552ef9ec88fc851). It is the ordinary least squares fit of a regression line to the data.
+A demonstrative model built using OLS (statsmodels) is [here](https://gist.github.com/ranja-sarkar/58702c2ee2eaa6410552ef9ec88fc851). It is the ordinary least squares fit of a regression line to the data.
 
 A linear regression model can be optimized using gradient descent [method](https://github.com/ranja-sarkar/GD/blob/dc7166c754c96bb6d3af625bce60f448c27be5b9/lr_gd.py). The algorithm parameter 'learning rate' controls the incremental steps of optimization. 
 
@@ -81,9 +81,9 @@ where n is the number of samples, indexed by i and p is the model prediction for
 
 ---
 
-The output of a [logistic regression model](https://github.com/ranja-sarkar/GD/blob/736eafc8eb1c889379347ceb337d2e722e100665/logit/LogitRegression.ipynb) is a probability, which based on a probability threshold is assigned a label for example, 0 or 1 for binary classification. So such models most of the times need to be [calibrated](https://scikit-learn.org/stable/modules/calibration.html) for reliable results. Calibration curves or plots, also referred to as reliability diagrams compare how well the probabilistic predictions of a binary classifier are calibrated.
+The output of a [logistic regression model](https://github.com/ranja-sarkar/GD/blob/736eafc8eb1c889379347ceb337d2e722e100665/logit/LogitRegression.ipynb) is a probability, which based on a probability threshold is assigned a label for example, 0 or 1 for binary classification. So such models most of the times need to be [calibrated](https://scikit-learn.org/stable/modules/calibration.html) for reliable results. 
 
 
 ![cc](https://github.com/user-attachments/assets/38cfca4d-ec62-4256-a951-d3e154c1feb1)
 
-
+Calibration curves/plots, also referred to as reliability diagrams compare how well the probabilistic predictions of a binary classifier are calibrated.
