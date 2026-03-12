@@ -15,7 +15,7 @@ As an example, consider a professional journey which usually is gradient **ascen
 
 # Linear Regression
 
-A demonstrative model built using OLS (statsmodels) is [here](https://gist.github.com/ranja-sarkar/58702c2ee2eaa6410552ef9ec88fc851). It is the ordinary least squares fit of a regression line to the data.
+A demonstrative model built using OLS (statsmodels) is [here](). It is the ordinary least squares fit of a regression line to the data.
 
 A linear regression model can be optimized using gradient descent [method](https://github.com/ranja-sarkar/GD/blob/dc7166c754c96bb6d3af625bce60f448c27be5b9/lr_gd.py). The algorithm parameter 'learning rate' controls the incremental steps of optimization. 
 
